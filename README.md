@@ -1,10 +1,12 @@
 # Hi there 👋, I am Yash!
 
+![Hello World!](hello_world.gif)
+
 ## 😄 I am a student at the University of Illinois at Chicago, pursuing Masters in Computer Science.
 ## ⚡ Feel free to go through my code on various frameworks and algorithms.
-## 🔭 I’m currently working on a Django web application project.
-## 🌱 I’m currently learning various other frameworks in Python as well as Java.
-## 👯 I’m looking to collaborate on Python and Java based project. If you have anything in mind, do email me.
+## 🔭 I am currently working on a Django web application project.
+## 🌱 I am currently learning various other frameworks in Python as well as Java.
+## 👯 I am looking to collaborate on Python and Java based project. If you have anything in mind, do email me.
 ## 📫 How to reach me: ychitr2@uic.edu
 
 
